@@ -11,4 +11,4 @@
 
 
 <h2>  Windows-Power-Shell-Sample:</h2>
-<h2>  [Place holder project 3](https://github.com/levivandetta/Windows-Power-Shell-Sample):</h2>
+<h2> https://github.com/levivandetta/Windows-Power-Shell-Sample:</h2>
